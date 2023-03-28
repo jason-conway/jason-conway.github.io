@@ -5,3 +5,5 @@ package.json
 postcss.config.js
 tailwind.config.js
 tailwind.css
+docs/fonts/**
+!docs/fonts/original/FiraGO-Regular.woff2
