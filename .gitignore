@@ -7,3 +7,8 @@ tailwind.config.js
 tailwind.css
 docs/fonts/**
 !docs/fonts/original/FiraGO-Regular.woff2
+!docs/fonts/FiraGO-Regular.latin.woff2
+!docs/fonts/FiraGO-Medium.latin.woff2
+!docs/fonts/FiraGO-SemiBold.latin.woff2
+!docs/fonts/FiraGO-Bold.latin.woff2
+!docs/fonts/FiraGO-Regular.shared.woff2
